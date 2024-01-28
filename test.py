@@ -1,4 +1,6 @@
+#importing Dependencies
 import requests
+
 # Trello API key and token (replace with your own)
 API_KEY = "879be7235a1c8f6543aaeac39666699e"
 TOKEN = "ATTA915988ab2f97f6fd1a81a5c9d23afe7803feb3272d5c5c743928ccc83a82eb154A54657C"
