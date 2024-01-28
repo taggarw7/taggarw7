@@ -1,1 +1,24 @@
-test
+# Trello API Script
+
+## Introduction
+
+This Python script interacts with the Trello API to create a new card on a specified board and list.
+
+## Usage
+
+1. Obtained my Trello API key and token.
+2. Run the script and follow the prompts to enter the card name, labels, and comment.
+3. This script will create a new card on the specified Trello board and list.
+
+## Dependencies
+
+- Python 3.x
+- Requests library (`pip install requests`)
+
+
+## Next Development steps
+1. Implement authentication more securely (avoiding hardcoding API key and token).
+2. Add more features such as due dates, attachments, and checklists.
+3. Add tests to ensure the reliability of the script.
+
+
